@@ -1,8 +1,8 @@
 <application>
   <component name="libraryTable">
-    <library name="libraries">
+    <library name="mysql-connector-java-5.1.14-bin (1)">
       <CLASSES>
-        <root url="file://$USER_HOME$/IdeaProjects/CSIMSampleApp/.idea/libraries" />
+        <root url="jar://$USER_HOME$/IdeaProjects/CSIMSampleApp/.idea/libraries/mysql-connector-java-5.1.14-bin (1).jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
